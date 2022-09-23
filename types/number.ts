@@ -5,10 +5,13 @@
 // let notANumber: number = NaN
 // let infinityNumber: number = Infinity
 
-// console.log(decLiteral)
-// console.log(hexLiteral)
-// console.log(binaryLiteral)
-// console.log(octalLiteral)
-// console.log(notANumber)
-// console.log(infinityNumber)
+// console.log(typeof decLiteral)
+// console.log(typeof hexLiteral)
+// console.log(typeof binaryLiteral)
+// console.log(typeof octalLiteral)
+// console.log(typeof notANumber)
+// console.log(typeof infinityNumber)
+
+
 // console.log((decLiteral+hexLiteral)/2)
+// console.log(infinityNumber>>1)
