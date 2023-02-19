@@ -59,7 +59,7 @@
 // console.log(tom)
 
 
-// function buildName(firstName: string, lastName: string = 'Cat') :string {
+// function buildName(firstName: string = 'Cat', lastName: string) :string {
 //     return firstName + ' ' + lastName
 // }
 // let tomcat = buildName('Tom', 'Cat')
